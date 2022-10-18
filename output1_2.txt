@@ -1,0 +1,31 @@
+Ma tran ke bieu dien do thi:
+
+  a b c d e f
+
+a 0 1 0 1 1 0
+
+b 1 0 1 0 1 1
+
+c 0 1 0 1 0 1
+
+d 1 0 1 0 1 0
+
+e 1 1 0 1 0 1
+
+f 0 1 1 0 1 0
+
+Danh sach ke:
+1 245
+2 1356
+3 246
+4 135
+5 1246
+6 235
+
+Bac cua tung dinh:
+a: 3
+b: 4
+c: 3
+d: 3
+e: 4
+f: 3
